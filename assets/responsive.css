@@ -52,7 +52,7 @@
   
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon{
-    display:none;
+    display:block;
   }
   
   .top-wrapper h1 {
